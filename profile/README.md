@@ -1,6 +1,6 @@
 # TRAO PERSONAL
 
-Cette organisation regroupe plusieurs projets privés visant à [objectif général de l'organisation].
+Cette organisation regroupe plusieurs projets privés.
 
 ## 📂 Structure de l'organisation
 
